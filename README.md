@@ -1,1 +1,7 @@
 # git_test2
+
+Hello Odin!
+
+SOME random text asgasklgjasklgjaskljgasklgha
+askgjaskglklgsajglasgasgashash
+asgasgasjasgajgasgaskglashgklasklg
